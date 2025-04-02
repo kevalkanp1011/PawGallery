@@ -16,9 +16,8 @@ Random Dog Generator is an Android app built using Jetpack Compose that allows u
 
 ---
 
-🎥 App Demo Video
-
-![Video](branding/app_working_video.mp4)
+## 🎥 App Demo Video
+[Watch the Video on Google Drive](https://drive.google.com/file/d/1a1jxKTDyxHD-ler4qBPBBxtY4KWXY1OB/view)
 
 ---
 
