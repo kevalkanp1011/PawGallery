@@ -10,8 +10,8 @@ Random Dog Generator is an Android app built using Jetpack Compose that allows u
 ---
 
 ## 📱 Screenshots
-| Home Screen | Generate Dogs Screen | My Recently Generated Dogs Screen | Settings Screen
-|------------|--------------------|-----------------|
+| Home Screen | Generate Dogs Screen | My Recently Generated Dogs Screen | Settings Screen |
+|------------|--------------------|-----------------|-----------------|
 | ![Home](branding/home.jpg) | ![Generate](branding/generate.jpg) | ![Gallery](branding/gallery.png) | ![Gallery](branding/settings.png) |
 
 ---
